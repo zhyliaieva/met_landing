@@ -11,10 +11,13 @@
 - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 
 # Using technologies
--HTML
--CSS
--Sass
--gitHub, git
+- HTML
+- CSS
+- Sass
+- gitHub, git
 
 # Using methodologies
--BEM
+- BEM
+
+# DTE
+- VScode
