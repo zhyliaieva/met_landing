@@ -1,6 +1,13 @@
-# MET Landing Page
+# MET Landing Page is a responsive website for the MET museum with full functionality: navigation, gallery, feedback form, scrolling animation.
+
 ## Project overview
-- Fully responsive layout for: **Desktop (1260px)**, **Desktop-small (1020px)**, **Tablet (744px)**, and **Mobile (>320px)**
+
+## Fully responsive layout for
+- Desktop: 1260px+
+- Desktop-small: 1020px - 1259px
+- Tablet: 744px - 1019px
+- Mobile: 320px - 743px
+
 - [DEMO LINK](https://zhyliaieva.github.io/met_landing)
 - [Code](https://github.com/zhyliaieva/met_landing)
 
