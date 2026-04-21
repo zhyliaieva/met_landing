@@ -1,28 +1,40 @@
-# Project overview
- - [DEMO LINK](https://zhyliaieva.github.io/met_landing/)
- - Code https://github.com/zhyliaieva/met_landing
+# MET — Landing Page
+## Project overview
+- Fully responsive layout for: **Desktop (1260px)**, **Desktop-small (1020px)**, **Tablet (744px)**, and **Mobile (>320px)**
+- [DEMO LINK](https://zhyliaieva.github.io/met_landing)
+- [Code](https://github.com/zhyliaieva/met_landing)
 
-### Impliment the landing based on Figma UI design for
-- Mobile
-- Tablet
-- Desktop
 
-### Link to the Figma design
+## Features
+- Responsive Layout (Mobile, Tablet, Desktop)
+- Burger Menu for Mobile Devices
+- Hero Section with Background Image
+- Gallery / Product Section
+- Feedback Form
+- Smooth Scrolling Navigation
+- Scroll Animations
+
+
+## Link to the Figma design
 - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 
-### Using technologies
-- HTML
-- CSS
-- Sass
-- gitHub, git
 
-### Using methodologies
+## Using technologies
+- HTML / CSS (Flexbox, Grid)
+- Sass
+- GitHub / Git
+- npm
+
+
+## Using methodologies
 - BEM
 
-### DTE
+
+## DTE
 - VScode
 
-### Installation / How to run
+
+## Installation / How to run
 1. Clone the repository:
 ```
 git clone https://github.com/zhyliaieva/met_landing
@@ -39,5 +51,4 @@ npm install
 ```
 npm start
 ```
-
 5. Open http://localhost:8080 in your browser to view the page.
