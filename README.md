@@ -1,4 +1,4 @@
-# MET — Landing Page
+# MET Landing Page
 ## Project overview
 - Fully responsive layout for: **Desktop (1260px)**, **Desktop-small (1020px)**, **Tablet (744px)**, and **Mobile (>320px)**
 - [DEMO LINK](https://zhyliaieva.github.io/met_landing)
@@ -10,7 +10,7 @@
 - Burger Menu for Mobile Devices
 - Hero Section with Background Image
 - Gallery / Product Section
-- Feedback Form
+- Contact Us Form
 - Smooth Scrolling Navigation
 - Scroll Animations
 
